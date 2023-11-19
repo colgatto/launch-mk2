@@ -1,6 +1,11 @@
 # launch-mk2
 Basic module for interact with Launchpad Mk2 that just work
 
+## Install
+```
+npm i launch-mk2
+```
+
 ## Example
 ```javascript
 const lp = require('launch-mk2');
