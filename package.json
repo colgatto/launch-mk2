@@ -1,0 +1,12 @@
+{
+	"name": "launch-mk2",
+	"version": "1.0.0",
+	"description": "basic module for interact with Launchpad Mk2 that just work",
+	"main": "index.js",
+	"dependencies": {
+		"midi": "^2.0.0"
+	},
+	"homepage": "https://github.com/colgatto/launch-mk2",
+	"author": "colgatto",
+	"license": "WTFPL"
+  }
